@@ -22,5 +22,8 @@ int main() {
 	*/
 
 
+	//here i could make a exercise with banknotes and amount of money
+
+
 return 0;
 }
