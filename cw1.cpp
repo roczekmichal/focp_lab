@@ -1,7 +1,7 @@
 #include <iostream>
 
 
-int dodawanie(int a, int b){
+int addingTwoNumbers(int a, int b){
 	return a+b;
 }
 
@@ -20,7 +20,7 @@ std::cout<<"First number: "<<std::endl;
 std::cin>>x;
 std::cout<<"Second number: "<<std::endl;
 std::cin>>z;
-std::cout<<"Adding two numbers: "<<dodawanie(x,z)<<std::endl;
+std::cout<<"Adding two numbers: "<<addingTwoNumbers(x,z)<<std::endl;
 
 
 
